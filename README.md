@@ -1,3 +1,5 @@
-# git-essentials
+# Git-essentials / Git for everybody
 
-Some new staff in here.
+This is a course to teach you how to use everyday git.
+
+Course created by Kalob Taulien
